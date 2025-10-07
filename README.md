@@ -1,4 +1,4 @@
 # mydemo
 this is my first git repo
 <BR>
-AUTHOR MOHAN
+AUTHOR MOHAN (yer collete)
